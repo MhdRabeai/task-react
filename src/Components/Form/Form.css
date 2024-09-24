@@ -1,0 +1,22 @@
+.inpt {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+}
+.inpt p {
+  color: #d8000c;
+  font-size: 10px;
+  float: left;
+}
+label {
+  font-weight: 600;
+  margin-bottom: 5px;
+  font-size: 14px;
+}
+input {
+  outline: none;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 4px 12px;
+  font-size: 14px;
+}
