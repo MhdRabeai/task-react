@@ -56,7 +56,7 @@ export default function Form() {
   };
   return (
     <div className="App min-h-screen min-w-full flex items-center justify-center">
-      <form onSubmit={handleSubmit} className="p-8  rounded-lg shadow-xl ">
+      <form onSubmit={handleSubmit} className="p-8  rounded-lg shadow-xl bg-white">
         <div className="txt mb-8">
           <h1 className="text-3xl font-semibold	mb-2">Sign Up</h1>
           <p className="text-sm	text-[#777]">
